@@ -1,3 +1,3 @@
-Yes, click to join
+Application not installed. Please install it.
 
-[Open Custom Protocol Link](combitrainer://?event=585d00d6-0484-4d34-ac83-a987467ebccd)
+Then then click on the link again.
